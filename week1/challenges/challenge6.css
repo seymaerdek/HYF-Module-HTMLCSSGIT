@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+  font-family: "Inspiration-Regular";
+  src: url(Inspiration-Regular.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "SpecialElite-Regular";
+  src: url(SpecialElite-Regular.ttf) format("truetype");
+}
+
+body{ 
+  background-color:#a6998d;
+  color: black;
+}
+
+#wrap{
+  margin:auto;
+  width: 800px;
+  height: 800px;
+  background-image: url(https://www.dhresource.com/0x0/f2/albu/g12/M01/E6/F3/rBVakF9ANF-AdtlUAAHmSjLBwYY217.jpg);
+  background-position: center;
+}
+ 
+.thepost{ 
+  background-color: #a6998d;
+  opacity: 0.5;
+  width: 500px;
+  height: 500px;
+  margin:0 150px;
+  text-align: center;
+}
+
+.posttitle{
+  font-size: 60px;
+}
+
+.dateheader{
+  font-size: 13px;
+}
+ 
+h1 {
+  font-family: "Inspiration-Regular", sans-serif;
+}
+p {
+  font-family:SpecialElite-Regular;
+  font-weight: bold;
+  margin-top:40px
+}
+
+.postfooter{
+  text-align: right;
+}

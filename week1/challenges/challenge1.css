@@ -1,0 +1,23 @@
+body{
+background-color: #5b7fbd;
+font-size: 15px;
+font-family: verdana, sans-serif
+}
+
+h1{
+font-weight: 900;
+}
+
+ul{
+text-align: center;
+list-style-position:inside;
+
+}
+
+
+.copyright {
+font-size: 10px;
+font-style: italic;
+}
+
+.copyright a{color:darkmagenta}

@@ -25,3 +25,6 @@ https://seymaerdek.github.io/HYF-Module-HTMLCSSGIT/week1/challenge/challenge5.ht
 
 Here is my challange6:
 https://seymaerdek.github.io/HYF-Module-HTMLCSSGIT/week1/challenge/challenge6.html
+
+Here is my CLI answers:
+https://seymaerdek.github.io/HYF-Module-HTMLCSSGIT/week1/CLI/answers.txt

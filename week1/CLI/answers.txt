@@ -1,0 +1,15 @@
+COMMAND LINE INTERFACE CHALLANGE
+1)	1) Make a file with "." (touch .abc.txt).Now you made a hidden file.
+	2)To listing all of the elements including hidden elements use ls -a code.(ls -a).
+
+2)For making a multiple nested directories, i should use this code: mkdir -p a/b/c/d 
+  It will make a file "a"and "b" will be in the "a", "c" will be in the"b". It should be written without space. If you write the code with space like mkdir -p a/ b/ c  It makes 3 different file.
+
+3)To append a new line without new line character, we can use this code: echo "this is a new line" >> answers.txt  
+output will be: This is a new line
+
+If we use this code: echo -e "this is a new line .\nThis is another line" >> answers.txt 
+
+Output will be:
+this is a new line
+This is another line
